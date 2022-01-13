@@ -1,9 +1,5 @@
 ### Hi there 👋 I'm Hirut
 
-<!--
-**HIRUT4528/Hirut4528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...Digital marketing campaign
 - 🌱 I’m currently learning ...Javascipt
 - 👯 I’m looking to collaborate on ...Javascript
@@ -11,7 +7,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...[twitter](https://twitter.com/home?lang=cs)
 - 😄 Pronouns: ...she/her
--->
+
+### ABOUT ME
+I’m a junior PPC specialist trying to change my career to front end developer. 
 <!-- here is readme stats card-->
 ![Github stats](https://github-readme-stats.vercel.app/api?username=HIRUT4528)
 <!-- adding github extra pins -->
