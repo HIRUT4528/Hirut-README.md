@@ -1,3 +1,4 @@
+![banner2](https://user-images.githubusercontent.com/90897088/149345885-83764eed-089e-4abd-9a94-ab297633bef0.gif)
 ### Hi there 👋, my name is Arturs
 #### I am GitHub Readme Generator's creator
 ![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
