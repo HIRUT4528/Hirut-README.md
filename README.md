@@ -1,20 +1,17 @@
 
 ![banner2](https://user-images.githubusercontent.com/90897088/149345885-83764eed-089e-4abd-9a94-ab297633bef0.gif)
 
-<h1> Hello there < I’m Hirut/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
+### Hello there < I’m Hirut/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Hirut4528.Hirut4528)
 
-</p>
-  </p>
-<div size='20px'> Hi! My name is Hirut. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is Hirut. Thank You for taking the time to view my GitHub Profile :pray: 
 </div>
 
 ### About Me
 
-I’m Hirut, currently, I am working as PPC specialist at [](). I’m passionate about web development and really enjoy learning programming languages and frameworks (React). 
-I build lots of few demos on this account and keep doing more.
+I’m Hirut, currently, I am working as PPC specialist at [](). I’m passionate about web development and enjoy learning programming languages and frameworks (React). 
+I build few demos on this account and keep doing more projects:smile:.
 
 - 🔭 I’m working on Github Projects
 - 🌱 I’m currently learning Javascript, React
