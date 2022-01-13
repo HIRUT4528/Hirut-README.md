@@ -11,33 +11,26 @@
 <div size='20px'> Hi! My name is Hirut. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
-Skills: VUE JS / REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
-
-
-
-
-
 ### About Me
 
 I’m Hirut, currently, I am working as PPC specialist at [](). I’m passionate about web development and really enjoy learning programming languages and frameworks (React). 
 I build lots of demos on this account and the @learnwithjason organization. Most of them are built live on Learn With Jason, a live-streamed pair programming show where super smart people join to teach us something new in 90 minutes.
 
-- 🌱 I’m currently learning ...Javascipt
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...Anything
+- 🔭 I’m working on Github Projects
+- 🌱 I’m currently learning Javascript, React
+- 💬 Talk to me about HTML, CSS, JavaScript, Freelancing Opportunites, Open Source 
 - 📫 How to reach me: ...[twitter](https://twitter.com/home?lang=cs)
-- 😄 Pronouns: ...she/her
 - :email: You can email me at [yahoo](https://mail.yahoo.com/d/folders/1?.lang=cs-CZ)
 - 🧑‍💻: For more information about me, check out [lenkedin]().
 
-### 🔧 Technologies & Tools
-
-
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<a href= https://github.com/Hirut4528?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
+<a href= https://github.com/Hirut4528?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<a href= https://github.com/Hirut4528?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
+<a href= https://github.com/Hirut4528?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
+<a href= https://github.com/Hirut4528?tab=repositories&q=&type=&language=blogger&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/blogger.svg'> </a>
+<a href= https://github.com/Hirut4528?tab=repositories&q=&type=&language=bootstrap&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
+<a href= https://github.com/Hirut4528?tab=repositories&q=&type=&language=photoshop&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg'> </a>
 
 
 ### 📈 GitHub Stats
