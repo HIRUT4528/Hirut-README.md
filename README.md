@@ -14,7 +14,7 @@
 ### About Me
 
 I’m Hirut, currently, I am working as PPC specialist at [](). I’m passionate about web development and really enjoy learning programming languages and frameworks (React). 
-I build lots of demos on this account and the @learnwithjason organization. Most of them are built live on Learn With Jason, a live-streamed pair programming show where super smart people join to teach us something new in 90 minutes.
+I build lots of few demos on this account and keep doing more.
 
 - 🔭 I’m working on Github Projects
 - 🌱 I’m currently learning Javascript, React
