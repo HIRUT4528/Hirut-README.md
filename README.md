@@ -32,13 +32,14 @@ I build lots of demos on this account and the @learnwithjason organization. Most
 <a href= https://github.com/Hirut4528?tab=repositories&q=&type=&language=bootstrap&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
 <a href= https://github.com/Hirut4528?tab=repositories&q=&type=&language=photoshop&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg'> </a>
 
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/hirut-assefa-gebrekidan/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.twitter.com/https://twitter.com/home?lang=cs'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+<a href = 'https://www.github.com/Hirut4528'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 ### 📈 GitHub Stats
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=HIRUT4528)
 
 
-<!-- adding github extra pins -->
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HIRUT4528&repo=)
-<!-- adding GitHub Profile View Counter -->
-<!--  -->
+
