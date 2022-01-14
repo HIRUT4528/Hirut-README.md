@@ -5,12 +5,12 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Hirut4528.Hirut4528)
 
-<div size='20px'> Hi! My name is Hirut. Thank You for taking the time to view my GitHub Profile :pray: 
+<div size='20px'> Hi! My name is Hirut Assefa. I'm from Ethiopia, living in Czechia. Currently, I am working as PPC specialist. I’m passionate about web development and want to change career. For the past years, I studeid few programming languages ( javascript, basic c#) and frameworks (React). You can reach me on ![twitter](https://twitter.com/GebrekidanHirut), [lenkedin]() or You can email me at [yahoo](https://mail.yahoo.com/d/folders/1?.lang=cs-CZ) . Thank You for taking the time to view my GitHub Profile :pray: 
 </div>
 
 ### About Me
 
-I’m Hirut, currently, I am working as PPC specialist at [](). I’m passionate about web development and enjoy learning programming languages and frameworks (React). 
+I’m Hirut, currently, at []().  
 I build few demos on this account and keep doing more projects:smile:.
 
 - 🔭 I’m working on Github Projects
@@ -32,11 +32,10 @@ I build few demos on this account and keep doing more projects:smile:.
 <h3> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h3>
 <a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/hirut-assefa-gebrekidan/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.twitter.com/https://twitter.com/home?lang=cs'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://www.github.com/Hirut4528'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<a href = 'https://www.github.com/Hirut4528'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>                                             
 
-<h3> 📈 GitHub Stats</h3>
+### 📈 GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HIRUT4528&show_icons=true&theme=radical)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=HIRUT4528)
-
-
+### Most Used Languages 
 
