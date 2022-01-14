@@ -5,20 +5,13 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Hirut4528.Hirut4528)
 
-<div size='20px'> Hi! My name is Hirut Assefa. I'm from Ethiopia, living in Czechia. Currently, I am working as PPC specialist. I’m passionate about web development and want to change career. For the past years, I studeid few programming languages ( javascript, basic c#) and frameworks (React). You can reach me on ![twitter](https://twitter.com/GebrekidanHirut), [lenkedin]() or You can email me at [yahoo](https://mail.yahoo.com/d/folders/1?.lang=cs-CZ) . Thank You for taking the time to view my GitHub Profile :pray: 
-</div>
-
 ### About Me
+Hi! My name is Hirut Assefa. I'm from Ethiopia, living in Czechia. Currently, I am working as PPC specialist. I’m passionate about new technologies and want to change career. For the past years, I studeid few programming languages and web development (basic c#, HTML, CSS). You can reach me on [twitter](https://twitter.com/GebrekidanHirut), [lenkedin]() or You can email me at [yahoo](https://mail.yahoo.com) . Thank You for taking the time to view my GitHub Profile :pray: 
 
-I’m Hirut, currently, at []().  
-I build few demos on this account and keep doing more projects:smile:.
-
-- 🔭 I’m working on Github Projects
+- 🔭 I’m working on Projects
 - 🌱 I’m currently learning Javascript, React
-- 💬 Talk to me about HTML, CSS, JavaScript, Freelancing Opportunites, Open Source 
-- 📫 How to reach me: ...[twitter](https://twitter.com/home?lang=cs)
-- :email: You can email me at [yahoo](https://mail.yahoo.com/d/folders/1?.lang=cs-CZ)
-- 🧑‍💻: For more information about me, check out [lenkedin]().
+- 💬 Talk to me or ask me anything about HTML, CSS, JavaScript, Freelancing Opportunites, Open Source 
+
 
 <h3> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h3>
 <a href= https://github.com/Hirut4528?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
