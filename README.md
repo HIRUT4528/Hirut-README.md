@@ -6,7 +6,9 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Hirut4528.Hirut4528)
 
 ### About Me
-Hi! My name is Hirut Assefa. I'm from Ethiopia, living in Czechia. Currently, I am working as PPC specialist. I’m passionate about new technologies and want to change career. For the past years, I studeid few programming languages and web development (basic c#, HTML, CSS). You can reach me on [twitter](https://twitter.com/GebrekidanHirut), [lenkedin]() or You can email me at [yahoo](https://mail.yahoo.com) . Thank You for taking the time to view my GitHub Profile :pray: 
+Hi! My name is Hirut Assefa. I'm from Ethiopia, living in Czechia. Currently, I am working as PPC specialist. I’m passionate about Information technologies(IT) and wanted to change my career. For the past years, I studeid few programming languages and web development (basic c#, HTML, CSS). For more information,  you can reach me on [twitter](https://twitter.com/GebrekidanHirut), or [lenkedin](). Thank You for taking the time to view my GitHub Profile :pray: 
+
+<!-- You can email me at [yahoo]() -->
 
 - 🔭 I’m working on Projects
 - 🌱 I’m currently learning Javascript, React
